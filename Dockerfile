@@ -13,3 +13,4 @@ RUN chmod u+x /app/go-go-beego
 ENTRYPOINT ["/app/go-go-beego/go-binary"]
 
 
+
